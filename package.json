@@ -1,0 +1,14 @@
+{
+    "name": "temperature-humidity-logger",
+    "version": "1.0.0",
+    "description": "Node DHT11 logging to mariadb-server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kirill Vorobyev",
+    "license": "CC-BY-NC-3.0",
+    "dependencies": {
+        "node-dht-sensor": "^0.4.3"
+    }
+}
